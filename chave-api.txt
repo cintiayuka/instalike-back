@@ -1,0 +1,7 @@
+AIzaSyCAEEqfEDKVEdXrgox1sgj4UY6-2dr_zcQ
+
+google-cloud mongo db:
+cintiasakurai
+7oELdy4hn2n7EqOl
+
+mongodb+srv://cintiasakurai:7oELdy4hn2n7EqOl@cluster0.8n51j.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
